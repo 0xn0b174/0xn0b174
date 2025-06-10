@@ -1,4 +1,9 @@
-## Hi there 👋
+#
+- 👋 Hi, I’m @0xn0b174
+- 👀 I’m interested in ... code
+- 🌱 I’m currently learning ... go & python
+- 💞️ I’m looking to collaborate on ... open source projects to enhance my coding
+- 📫 How to reach me ... through my github !
 
 <!--
 **0xn0b174/0xn0b174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
